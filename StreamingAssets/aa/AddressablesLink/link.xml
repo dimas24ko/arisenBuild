@@ -11,7 +11,8 @@
     <type fullname="ArisenCode.Unity.VisualConfig.SceneActorMb" preserve="all" />
     <type fullname="IdleRandomizer" preserve="all" />
     <type fullname="WindRandomizer" preserve="all" />
-    <type fullname="ArisenCode.Unity.Services.EnemyAligner.EnemyPositionsContainer" preserve="nothing" serialized="true" />
+    <type fullname="ArisenCode.Unity.Services.EnemyAligner.EnemySlotPosition" preserve="nothing" serialized="true" />
+    <type fullname="ArisenCode.Unity.Services.EnemyAligner.LayoutContainer" preserve="nothing" serialized="true" />
     <type fullname="ArisenCode.Unity.Services.Parallax.ParallaxEntity" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="spine-unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
