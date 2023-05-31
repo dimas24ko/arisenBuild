@@ -7,7 +7,6 @@
     <type fullname="ArisenCode.Unity.Context.Battle.BattleView" preserve="all" />
     <type fullname="ArisenCode.Unity.ScriptableObjects.SlotGames.ArisenOneConfigSo" preserve="all" />
     <type fullname="ArisenCode.Unity.ScriptableObjects.SlotGames.ArisenOneSo" preserve="all" />
-    <type fullname="ArisenCode.Unity.StateManagement.States.LobbyView" preserve="all" />
     <type fullname="ArisenCode.Unity.VisualConfig.SceneActorMb" preserve="all" />
     <type fullname="IdleRandomizer" preserve="all" />
     <type fullname="WindRandomizer" preserve="all" />
@@ -67,7 +66,6 @@
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.RenderSettings" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
-    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
     <type fullname="UnityEngine.TextAsset" preserve="all" />
